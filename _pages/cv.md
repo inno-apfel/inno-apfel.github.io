@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Experience"
+permalink: /experience/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,51 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
+------
+* B.S. in **Data Science**, University of California, San Diego, 2020-2024
+* High School Diploma, Diamond Bar High School, 2016-2020
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Work & Research Experience
+------
+* **Title**, Company, Time Period
+  * Role Description
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Tutor**, HDSI & Jacobs School of Engineering (UC San Diego), Mar 2022 - Present
+  * Explaining technical course concepts to students who don't have a solid technical background by holding office hours and answering Piazza question.
+  * Grading labs and homeworks on Gradescope
+  * Course tutored include 
+    * DSC 30 (Java Programming), Winter 2022
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## 🏅 Honors & Awards
+------
+* **🥇 Champion**: 摆烂-ing International Competition, Birth-Present
+
+## Skills
+------
+* Language
+  * English
+  * Mandarin
+* Programming Language & Software
+  * Java
+  * Python
+  * R
+  * MATLAB
+  * SQL
+  * LaTex
+  * Tableau
+* Toolkits
+  * numpy
+  * pandas
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
