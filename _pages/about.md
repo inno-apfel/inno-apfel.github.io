@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year undergraduate student majoring in **Data Science** and **Cognitive Science** at the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) in **University of California, San Diego**.
+I'm a second year undergraduate student majoring in **Data Science** at the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) in **University of California, San Diego**.
 
 ### Course Schedule
 Here is my tentative four-year plan with quarter-by-quarter course schedule.
