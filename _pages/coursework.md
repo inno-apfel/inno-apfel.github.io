@@ -28,8 +28,8 @@ redirect_from:
 * DSC 95 Tutor Apprenticeship in Data Science **[In-Progress]**(Pass/No Pass Only)
 * DSC 96 Workshop in Data Science **[Pass]**(Pass/No Pass Only)
 * MATH 18 Linear Algebra **[A]**
-* MATH 20C Calculus & Analytic Geometry for Science & Engineering **[A]**
 * MATH 20B Calculus for Science & Engineering **[A+]**
+* MATH 20C Calculus & Analytic Geometry for Science & Engineering **[A]**
 
 ## General Education
 * ETHN 1 Intro: Land and Labor **[A]**
