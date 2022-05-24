@@ -16,37 +16,66 @@ redirect_from:
 
 ## Work & Research Experience
 ------
-* **National Power Outages Analysis and Predictor**, University of California San Diego, May 2022 — Present
+* **National Power Outages Analysis and Predictor**, University of California San Diego, May 2022 - Present
   * Wrangled mass amounts of data, cleaning and transforming features, to discover and visualize interesting trends and patterns within national power outage observations
   * Analyzed unusual discoveries and evaluated numerous speculations through hypothesis testing
   * Utilized python to implement supervised machine learning techniques for power outage duration prediction to better inform affected customers and personnel
 
-* **Tutor**, HDSI & Jacobs School of Engineering (UC San Diego), Mar 2022 - Present
-  * Explaining technical course concepts to students who don't have a solid technical background by holding office hours and answering Piazza question.
-  * Grading labs and homeworks on Gradescope
-  * Course tutored include 
-    * DSC 30 (Java Programming), Winter 2022
+* **Academic Tutor: DSC30 - Data Structures and Algorithms**, HDSI & Jacobs School of Engineering (UC San Diego), April 2022 - Present
+  * Collaborated with instructors and 21 other TAs to reinforce student learning of skills and materials through weekly check-ins, informal assessments, and observations
+  * Assisted student learning by providing one on one support during weekly office hours
+  * Answered 100+ questions through the online class forum
+  * Developed multiple comprehensive rubrics for quarterly examinations
 
-## 🏅 Honors & Awards
+* **Open Metaverse Academic Internship**, Arthur C. Clarke Center for Human Imagination, January 2022 - March 2022
+  * Developed an interactive VR visualization in Unity game engine stimulating the relaxation effects of meditation to reduce stress, depression, and anxiety
+  * Implemented a data pipeline through socket communication to transfer respiration belt data from python API to C in Unity, allowing users to interact with the virtual world through respiration
+  * Presented results to program advisors, 28 other teams, and countless interested students to demonstrate the immersive capabilities of virtual reality software
+
+* **KNN Image Classifier and Image Processor**, University of California San Diego,  March 2021
+  * Developed a python program to perform image modifications and classifications
+  * Implemented basic image manipulation tools such as RGB color scale modifications, image cropping, and image rotation.
+  * Implemented a k-nearest neighbors classification algorithm based on RGB euclidean distances to classify images with pre-labeled training data.
+
+* **Jeopardy Analysis**, University of California San Diego, December 2020
+  * Performed general analyses on Jeopardy game data, investigating trends in contestant behaviors and the distribution of questions and question difficulties.
+  * Utilized hypothesis testing to analyze mid-game trends between winning and losing contestants, giving insight into mid-game factors that increase contestants’ likelihoods of winning
+  * Utilized bootstrapping and confidence intervals to compute an amount of winnings, with 99% confidence, that game-hosts should prepare to give out while minimizing losses
+
+
+
+
+
+<!-- ## 🏅 Honors & Awards
 ------
-* **🥇 Champion**: 摆烂-ing International Competition, Birth-Present
+* **🥇 Champion**: 摆烂-ing International Competition, Birth-Present -->
 
 ## Skills
 ------
-* Language
-  * English
-  * Mandarin
-* Programming Language & Software
-  * Java
+* Programing Languages
   * Python
+  * Java
+  * Git
+  * SQL
+  * MarkDown
+  * LaTeX
+  * HTML
   * R
   * MATLAB
-  * SQL
-  * LaTex
+* Technical Tools
+  * Pandas
+  * Numpy
+  * Scikit-learn
+  * Matplotlib
+  * Seaborn
+  * GeoPandas
+  * BeautifulSoup
   * Tableau
-* Toolkits
-  * numpy
-  * pandas
+  * Excel
+  * Unity
+* Languages
+  * English
+  * Mandarin
 
   
   
