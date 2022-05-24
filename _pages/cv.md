@@ -16,8 +16,10 @@ redirect_from:
 
 ## Work & Research Experience
 ------
-* **Title**, Company, Time Period
-  * Role Description
+* **National Power Outages Analysis and Predictor**, University of California San Diego, May 2022 — Present
+  * Wrangled mass amounts of data, cleaning and transforming features, to discover and visualize interesting trends and patterns within national power outage observations
+  * Analyzed unusual discoveries and evaluated numerous speculations through hypothesis testing
+  * Utilized python to implement supervised machine learning techniques for power outage duration prediction to better inform affected customers and personnel
 
 * **Tutor**, HDSI & Jacobs School of Engineering (UC San Diego), Mar 2022 - Present
   * Explaining technical course concepts to students who don't have a solid technical background by holding office hours and answering Piazza question.
