@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Coursework & Academic Performance"
-    url: /coursework/
-
   - title: "Experience"
     url: /experience/
+
+  - title: "Coursework & Academic Performance"
+    url: /coursework/
     
   # - title: "Teaching"
   #   url: /teaching/ 
