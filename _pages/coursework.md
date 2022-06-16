@@ -28,7 +28,7 @@ redirect_from:
 * DSC 30 Data Structures and Algorithms for Data Science **[A+]**(📈 Rank: **Top** 10/160)
 * DSC 40A Theoretical Foundations of Data Science I **[A-]**
 * DSC 40B Theoretical Foundations of Data Science II **[A]**
-* DSC 80 Practice of Data Science **[A+]**(📈 Rank: **Top** 14/93)
+* DSC 80 Practice of Data Science **[A+]**(📈 Rank: **Top** 22/207)
 * DSC 95 Tutor Apprenticeship in Data Science **[Pass]**(Pass/No Pass Only)
 * DSC 96 Workshop in Data Science **[Pass]**(Pass/No Pass Only)
 * MATH 18 Linear Algebra **[A]**
