@@ -21,7 +21,7 @@ redirect_from:
   * Analyzed unusual discoveries and rigorously evaluated speculations through hypothesis testing
   * Utilized scikit-learn and supervised machine learning techniques to implement a random forest classifier to predict cause categories for major power outages.
 
-* Instructional Assistant: DSC30 - Data Structures and Algorithms**, HDSI & Jacobs School of Engineering (UC San Diego), April 2022 - Present
+* **Instructional Assistant**: DSC30 - Data Structures and Algorithms**, HDSI & Jacobs School of Engineering (UC San Diego), April 2022 - Present
   * Collaborated with instructors and 21 other TAs to reinforce student learning of skills and materials through weekly check-ins, informal assessments, and observations
   * Assisted student learning by providing one on one support during weekly office hours
   * Answered 100+ questions through the online class forum
