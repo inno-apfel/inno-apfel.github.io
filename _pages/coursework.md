@@ -10,10 +10,14 @@ redirect_from:
 {% include base_path %}
 
 ## GPA
-* Undergraduate GPA: **3.89**
+* Undergraduate GPA: **3.90**
 
 ## Data Science - Upper Division
-* MGT 103 Product Marketing & Management **[In-Progress]**
+* DSC 100 Intro to Data Management **[Planned]**
+* CSE 151B Deep Learning **[Planned]**
+* CSE 158 Recommender Systems and Web Mining **[Planned]**
+* LIGN 167 Deep Learning for Natural Language **[Planned]**
+* MGT 103 Product Marketing & Management **[A]**
 * MGT 153 Business Analytics **[A+]**(📈 Rank: **Top** 3/75)
 * MATH 183 Statistical Methods **[A+]**
 
@@ -24,8 +28,8 @@ redirect_from:
 * DSC 30 Data Structures and Algorithms for Data Science **[A+]**(📈 Rank: **Top** 10/160)
 * DSC 40A Theoretical Foundations of Data Science I **[A-]**
 * DSC 40B Theoretical Foundations of Data Science II **[A]**
-* DSC 80 Practice of Data Science **[In-Progress]**
-* DSC 95 Tutor Apprenticeship in Data Science **[In-Progress]**(Pass/No Pass Only)
+* DSC 80 Practice of Data Science **[A+]**(📈 Rank: **Top** 14/93)
+* DSC 95 Tutor Apprenticeship in Data Science **[Pass]**(Pass/No Pass Only)
 * DSC 96 Workshop in Data Science **[Pass]**(Pass/No Pass Only)
 * MATH 18 Linear Algebra **[A]**
 * MATH 20B Calculus for Science & Engineering **[A+]**
@@ -38,10 +42,10 @@ redirect_from:
 * MMW 11 Pre-History & Ancient Foundations **[A]**
 * MMW 12 Classical & Medieval Tradition **[A-]**
 * MMW 13 New Ideas and Cultural Encounters **[B+]**
-* MMW 14 Revolution, Industry, and Empire **[Future]**
-* MMW 15 Twentieth Century and Beyond **[Future]**
+* MMW 14 Revolution, Industry, and Empire **[In-Progress]**
+* MMW 15 Twentieth Century and Beyond **[In-Progress]**
 * ANSC 101A Korean Wave Media & Cultural Change **[A+]**
-* LTEA 110A Classical Chinese Fiction in Translation **[In-Progress]**
+* LTEA 110A Classical Chinese Fiction in Translation **[A]**
 * AIP 197 Academic Internship Program (ARNO Open Meta-Verse) **[Pass]**(Pass/No Pass Only)
 
 ## Advanced Placement (High School)
