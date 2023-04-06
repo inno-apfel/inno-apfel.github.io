@@ -12,6 +12,8 @@ collection: portfolio
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
 <script src="//code.jquery.com/jquery.js"></script>
 
+<meta http-equiv="Permissions-Policy" content="interest-cohort=()">
+
 <style>
 
 .submit_button {
