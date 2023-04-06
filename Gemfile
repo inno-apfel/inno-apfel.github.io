@@ -11,11 +11,15 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
-# If you want to use Jekyll native, uncomment the line below.
+# If you want to use Jekyll native, uncomment the lines below.
 # To upgrade, run `bundle update`.
 
-# gem "jekyll"
+gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'
+gem 'tzinfo-data'
+gem 'faraday-retry'
+gem "jekyll"
 
+# Platform
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
@@ -25,3 +29,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+gem "webrick", "~> 1.8"

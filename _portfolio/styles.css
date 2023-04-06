@@ -1,0 +1,26 @@
+/*You can add styles to format your tooltip here*/
+.center_plot {
+    margin: auto;
+    text-align: center;
+}
+
+.left_plot {
+    margin: auto;
+    text-align: left;
+}
+
+.section {
+    text-align: center;
+}
+
+div.tooltip{
+    position: absolute;
+    text-align: left;
+    width: "fit-content";
+    height: "fit-content";
+    padding: 5px;
+    background: white;
+    pointer-events: none;
+    }
+
+
