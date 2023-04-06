@@ -405,7 +405,7 @@ var question3=function(filePath){
         // PROCESS DATA
 
         selected_role = 'top'
-        selected_champs = ['Gwen']
+        selected_champs = ['Akali', 'Gangplank', 'Gwen', 'Jax', 'Malphite', 'Shyvana']
         only_curr_role = d3.filter(data, function(d){ return d['position'] == selected_role })
 
         gamelength_bins = [[15,25], [25,35], [35,45], [45,60]]

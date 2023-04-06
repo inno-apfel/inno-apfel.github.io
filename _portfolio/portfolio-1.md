@@ -153,7 +153,7 @@ div.tooltip{
         <option value="sup">Support</option>
     </select>
         Champion(s): 
-        <input type="text" id="q3_champSelector" placeholder="Gwen">
+        <input type="text" id="q3_champSelector" placeholder="Akali, Gangplank, Gwen, Jax, Malphite, Shyvana">
         <button class='submit_button' id='q3_submitButton'>Generate</button>
 
         <div id="q3_plot" class="left_plot">
