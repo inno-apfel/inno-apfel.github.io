@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+## Education
+* B.S. in **Data Science**, University of California, San Diego, 2020-2024
+* High School Diploma, Diamond Bar High School, 2016-2020
+
 ## GPA
 * Undergraduate GPA: **3.92**
 
