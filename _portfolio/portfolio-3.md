@@ -1,7 +1,8 @@
 ---
 title: "National Power Outages Classifier"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "<img src='/images/power_outages_banner_3.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
-placeholder text
+<br>
+<img src='../../../../images/power_outages_banner_3.jpg'>

@@ -1,9 +1,8 @@
 ---
 title: "Personalized Steam Video Game Recommender"
-excerpt: "Short description of portfolio item number 2<br/><img src='/images/500x300.png'>"
+excerpt: "<img src='/images/steam_banner_2.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
-placeholder text
-
-</script>
+<br>
+<img src='../../../../images/steam_banner_2.jpg'>
