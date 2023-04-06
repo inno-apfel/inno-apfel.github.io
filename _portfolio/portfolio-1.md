@@ -5,7 +5,6 @@ collection: portfolio
 ---
 
 <script type="text/javascript" src="../../../../scripts/app.js"></script>  
-<link rel="stylesheet" href="styles.css">
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script src="https://d3js.org/topojson.v1.min.js"></script>
 <script src="https://d3js.org/d3-selection-multi.v1.min.js"></script>
