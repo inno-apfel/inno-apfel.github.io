@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- ## Education
-------
-* B.S. in **Data Science**, University of California, San Diego, 2020-2024
-* High School Diploma, Diamond Bar High School, 2016-2020 -->
-
 ## Work Experience
 ------
 * **Instructional Assistant: DSC30 - Data Structures and Algorithms**
@@ -109,6 +104,3 @@ redirect_from:
 | Technical Tool         | Git                        | 4                    | Introduced in Course: DSC20 (Intro to Programming). Used Whenever Necessary While Working on Other Things.                   |
 | Human Language         | English                    | 5                    | Native-born                                                                                                                  |
 | Human Language         | Mandarin                   | 3                    | Listening: 4, Speaking: 3, Reading: 3, Writing: 2                                                                            |
-
-  
-  
