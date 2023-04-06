@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a second year undergraduate student majoring in **Data Science** at the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) in **University of California, San Diego**.  I'm interested in getting more hands-on experience working with real world data in data analytics and software engineering. Currently looking for internships in data analytics and software engineering for Summer 2022 / Fall 2022 / Winter 2023 or co-ops!
+Third year undergraduate student majoring in **Data Science** at the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) in **University of California, San Diego**. Interests include gaming, tech, anime, and reef aquariums. Always on the lookout for new emerging technologies and more learning experiences. Currently looking for greater hands-on experience working with real world data in data analytics and software engineering.
 
 
 <!-- ### Course Schedule
@@ -26,7 +26,7 @@ Here is my tentative four-year plan with quarter-by-quarter course schedule.
 * 🚀 Big Data Pipelines
 * 📚 NLP Applications 
 
-## 🤗 Hobbies
+## 🧵 Hobbies
 * 🎮 Gaming (League, Genshin, Steam)
 * 💻 Technology
 * 🐠 Marine Aquariums
