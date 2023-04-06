@@ -1,6 +1,6 @@
 ---
 title: "League of Legends Champions Analysis Dashboard"
-excerpt: "Short description of portfolio item number 3<br/><img src='/images/500x300.png'>"
+excerpt: "<img src='/images/league_banner.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
