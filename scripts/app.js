@@ -1,5 +1,5 @@
 function final_project(){
-    var filePath="../../../../scripts/data_processed.csv"
+    var filePath="../../../../scripts/data/data_processed.csv"
     question0(filePath)
     question1(filePath) // plot 1
     question2(filePath) // plot 2
