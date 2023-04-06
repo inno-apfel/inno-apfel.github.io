@@ -98,8 +98,8 @@ var question1=function(filePath){
         names_padding = 0
         title_padding = 30
 
-        svgwidth = 800
-        svgheight = 800
+        svgwidth = $('.page__content').width()
+        svgheight = $('.page__content').width()
 
         svg = d3.select("#q1_plot").append("svg")
                 .attr("height", svgheight)
@@ -349,7 +349,7 @@ var question2=function(filePath){
 
         legend_padding = 5
         legend_box_height = 20
-        legend_box_length = 220
+        legend_box_length = (xScale.range()[1] - xScale.range()[0])/3
         legend_text_height = 30
 
         legend_label_mapping = {'damagetochampionsperminute': 'Damage Dealt Per Minute',
@@ -451,8 +451,8 @@ var question3=function(filePath){
         names_padding = 60
         title_padding = 50
 
-        svgwidth = 800
-        svgheight = 800
+        svgwidth = $('.page__content').width()
+        svgheight = $('.page__content').width()
 
         svg = d3.select("#q3_plot").append("svg")
                 .attr("height", svgheight)
