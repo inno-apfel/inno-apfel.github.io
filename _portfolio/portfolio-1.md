@@ -39,6 +39,9 @@ div.tooltip{
 
 </style>
 
+<br>
+<img src='../../../../images/league_banner.jpg'>
+
 <h3>Introduction</h3>
 <p>
     League of Legends is a popular MOBA (multiplayer online battle arena) video game published by Riot Games in 2009. In the game, two teams of 5 players each engage in PVP (player-versus-player) combat,with each team occupying and defending their half of the map. Each of the ten players controls a character, known as a "champion", with unique abilities and differing styles of play. In League's main mode, Summoner's Rift, a team wins by pushing through to the enemy base and destroying their "Nexus", a large structure located within.
