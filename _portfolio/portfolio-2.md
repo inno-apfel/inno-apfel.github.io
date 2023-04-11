@@ -137,28 +137,28 @@ So far, we have produced a model that is quite accurate at predicting whether or
 
 Top 20 Recommendations for User "76561198066143243":
 
-| **Game**                         | **Score** | **Release Date** | **URL**                                                               |
-| -------------------------------- | --------- | ---------------- | --------------------------------------------------------------------- |
-| Tribes: Ascend	               | 0.060076  | 2012-06-27       | http://store.steampowered.com/app/17080/Tribes_Ascend                 |
-| APB Reloaded                     | 0.054478  | 2011-12-06	      | http://store.steampowered.com/app/113400/APB_Reloaded                 |
-| Warframe                         | 0.047966  | 2013-03-25	      | http://store.steampowered.com/app/230410/Warframe                     |
-| Defiance                         | 0.046084  | 2014-06-04       | http://store.steampowered.com/app/224600/Defiance                     |
-| War Thunder                      | 0.045788  | 2013-08-15	      | http://store.steampowered.com/app/236390/War_Thunder                  |
-| Blacklight: Retribution          | 0.045340  | 2012-07-02	      | http://store.steampowered.com/app/209870/Blacklight_Retribution       |
-| RIFT                             | 0.041517  | 2013-10-24	      | http://store.steampowered.com/app/39120/RIFT                          |
-| Robocraft                        | 0.040458  | 2017-08-24	      | http://store.steampowered.com/app/301520/Robocraft                    |
-| Loadout                          | 0.038625  | 2014-01-31	      | http://store.steampowered.com/app/208090/Loadout                      |
-| The Lord of the Rings Online™    | 0.035066  | 2012-06-06	      | http://store.steampowered.com/app/212500/The_Lord_of_the_Rings_Online |
-| Warface                          | 0.032954  | 2014-07-01	      | http://store.steampowered.com/app/291480/Warface                      |
-| Emily is Away                    | 0.030224  | 2015-11-20	      | http://store.steampowered.com/app/417860/Emily_is_Away                |
-| Arma 3                           | 0.028864  | 2013-09-12	      | http://store.steampowered.com/app/107410/Arma_3                       |
-| Counter-Strike: Global Offensive | 0.027613  | 2012-08-21	      | http://store.steampowered.com/app/730/CounterStrike_Global_Offensive  |
-| DayZ                             | 0.027536  | 2013-12-16	      | http://store.steampowered.com/app/221100/DayZ                         |
-| Block N Load                     | 0.026661  | 2015-04-30       | http://store.steampowered.com/app/299360/Block_N_Load                 |
-| Evolve Stage 2                   | 0.025975  | 2015-02-10       | http://store.steampowered.com/app/273350/Evolve_Stage_2               |
-| Star Conflict                    | 0.025483  | 2013-02-27	      | http://store.steampowered.com/app/212070/Star_Conflict                |
-| Mount & Blade: Warband           | 0.024494  | 2010-03-31	      | http://store.steampowered.com/app/48700/Mount__Blade_Warband          |
-| Natural Selection 2              | 0.024175  | 2012-10-30	      | http://store.steampowered.com/app/4920/Natural_Selection_2            |
+| **Game**                         | **Score** | **Release Date** | **URL**                                                                       |
+| -------------------------------- | --------- | ---------------- | ----------------------------------------------------------------------------- |
+| Tribes: Ascend	               | 0.060076  | 2012-06-27       | [link](http://store.steampowered.com/app/17080/Tribes_Ascen)                  |
+| APB Reloaded                     | 0.054478  | 2011-12-06	      | [link](http://store.steampowered.com/app/113400/APB_Reloaded)                 |
+| Warframe                         | 0.047966  | 2013-03-25	      | [link](http://store.steampowered.com/app/230410/Warframe)                     |
+| Defiance                         | 0.046084  | 2014-06-04       | [link](http://store.steampowered.com/app/224600/Defiance)                     |
+| War Thunder                      | 0.045788  | 2013-08-15	      | [link](http://store.steampowered.com/app/236390/War_Thunder)                  |
+| Blacklight: Retribution          | 0.045340  | 2012-07-02	      | [link](http://store.steampowered.com/app/209870/Blacklight_Retribution)       |
+| RIFT                             | 0.041517  | 2013-10-24	      | [link](http://store.steampowered.com/app/39120/RIFT)                          |
+| Robocraft                        | 0.040458  | 2017-08-24	      | [link](http://store.steampowered.com/app/301520/Robocraft)                    |
+| Loadout                          | 0.038625  | 2014-01-31	      | [link](http://store.steampowered.com/app/208090/Loadout)                      |
+| The Lord of the Rings Online™    | 0.035066  | 2012-06-06	      | [link](http://store.steampowered.com/app/212500/The_Lord_of_the_Rings_Online) |
+| Warface                          | 0.032954  | 2014-07-01	      | [link](http://store.steampowered.com/app/291480/Warface)                      |
+| Emily is Away                    | 0.030224  | 2015-11-20	      | [link](http://store.steampowered.com/app/417860/Emily_is_Away)                |
+| Arma 3                           | 0.028864  | 2013-09-12	      | [link](http://store.steampowered.com/app/107410/Arma_3)                       |
+| Counter-Strike: Global Offensive | 0.027613  | 2012-08-21	      | [link](http://store.steampowered.com/app/730/CounterStrike_Global_Offensive)  |
+| DayZ                             | 0.027536  | 2013-12-16	      | [link](http://store.steampowered.com/app/221100/DayZ)                         |
+| Block N Load                     | 0.026661  | 2015-04-30       | [link](http://store.steampowered.com/app/299360/Block_N_Load)                 |
+| Evolve Stage 2                   | 0.025975  | 2015-02-10       | [link](http://store.steampowered.com/app/273350/Evolve_Stage_2)               |
+| Star Conflict                    | 0.025483  | 2013-02-27	      | [link](http://store.steampowered.com/app/212070/Star_Conflict)                |
+| Mount & Blade: Warband           | 0.024494  | 2010-03-31	      | [link](http://store.steampowered.com/app/48700/Mount__Blade_Warband)          |
+| Natural Selection 2              | 0.024175  | 2012-10-30	      | [link](http://store.steampowered.com/app/4920/Natural_Selection_2)            |
 
 ## Future Work
 On the next step of this project, an interactive dashboard can be deployed to allow users outside of our training data, which only included Australian users in 2017, to generate and view their own game recommendations. This could be implemented by using Steam's open API to gather information on a new user's game library, while deploying server side python code to process that information and run it with our final recommender model, saved with pickling to avoid re-training.
