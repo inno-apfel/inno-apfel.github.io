@@ -1,6 +1,6 @@
 ---
 title: "Unity Isometric Farming Game"
-excerpt: "<img src='/images/unity_banner_2.png' width='500' height='300'>"
+excerpt: "<img src='/images/unity_banner_2.jpg' width='500' height='300'>"
 collection: portfolio
 ---
 
