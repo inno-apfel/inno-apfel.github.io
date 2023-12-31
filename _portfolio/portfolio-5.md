@@ -56,27 +56,49 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium interdum li
 
 ### Fish
 
-- 1x Firefish
-- 1x Bangaii Cardinalfish
+- 1x Firefish ✅
+- 1x Bangaii Cardinalfish ✅
+- 1x Tanakas Pygmy Wrasse 
 
 
 ### Inverts
 
-- 1x Fire Shrimp
-- 1x Pom Pom Crab
-- 1x Porcelain Anemone Crab
-- 1x Purple Variegated Urchin
-- 3x Blue Legged Hermit Crab
-- 1x Nassarius Snail
-- 1x Astrea Snail
-- ~x Small Red Feather Duster Worms (Hitchhiker)
-- ~x Asterina Starfish (Hitchhiker)
+- 1x Fire Shrimp ✅
+- 1x Pom Pom Crab ✅
+- 1x Porcelain Anemone Crab ✅
+- 1x Purple Variegated Urchin ✅
+- 3x Blue Legged Hermit Crab ✅
+- 1x Nassarius Snail ✅
+- 1x Astrea Snail ✅
+- 1x Pink & White Coco Worm ❌
+- 1x Maxima Clam ❌
+- 1x Minimaxi Carpet / Rock Flower Anemone ❌
+- 5x Sexy Shrimp ❌
+- ~x Small Red Feather Duster Worms (Hitchhiker) ✅
+- ~x Asterina Starfish (Hitchhiker) ✅
 
 
 ### Corals
 
-- Green Star Polyps
+- Red Discosoma ✅
+- Neon Green Hairy Mushroom ✅
+- Green Star Polyps ✅
+- Purple Photosynthetic Gorgonian ❌
+- Ricordea Florida ❌
+- Blue Discosoma ❌
+- Koji Wada Pink Nepthea ❌
+- Japanese Feather Xenia ❌
+- Gold Torch ❌
+- Green Frogspawn ❌
 
+
+### Macro-Algae
+
+- Red Bubble Caeulerpa ❌
+- Feather Caulerpa ❌
+- Dragons Breath ❌
+- Halimeda ❌
+- Blue Hypnea ❌
 
 
 ## History

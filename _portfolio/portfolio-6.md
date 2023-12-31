@@ -49,18 +49,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium interdum li
 
 ### Zoas
 
-- Pink Diamonds Zoa
-- Sunny D Zoa
-- White Zombies Zoa
-- GMK Zoa
-- Rastas Zoa 
+- Pink Diamonds Zoa ✅
+- Sunny D Zoa ✅
+- White Zombies Zoa ✅
+- GMK Zoa ✅
+- Rastas Zoa ✅
+- Utter Chaos ❌
+- Rainbow Incinerators ❌
 
 
 ### Mushrooms
 
-- Red Discosoma
-- Neon Green Hairy Mushroom
-- Tequila Sunset Rhodactis
+- Tequila Sunset Rhodactis ✅
+- Deadpool Discosoma ❌
+
 
 
 ## History
