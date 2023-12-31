@@ -58,7 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium interdum li
 
 - 1x Firefish ✅
 - 1x Bangaii Cardinalfish ✅
-- 1x Tanakas Pygmy Wrasse 
+- 1x Tanakas Pygmy Wrasse ❌
 
 
 ### Inverts
@@ -104,3 +104,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium interdum li
 ## History
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium interdum ligula sit amet ultrices. Vivamus vitae tellus vel ante congue euismod ultricies ac dolor. Suspendisse facilisis lectus sem, non efficitur augue blandit consequat. Nulla mollis dui et tellus pretium pellentesque. Integer mauris lorem, pulvinar ac varius quis, aliquet sit amet orci. Integer convallis justo vel finibus porttitor. Sed dapibus lobortis orci vitae cursus.
+
+
+## Future Plans
+
+Build a 20 gallon sump connecting my two tanks, to improve stability and biocapacity.
