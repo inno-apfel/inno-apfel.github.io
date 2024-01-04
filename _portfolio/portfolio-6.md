@@ -74,6 +74,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium interdum li
 - Deadpool Discosoma ❌
 
 
+## Inspirations
+
+Youtube Video: [Skylight Vivarium's Floating Zoa Garden](https://www.youtube.com/watch?v=V5EH-X4C3JQ)
+
+![zoa-fts](https://i.ytimg.com/vi/V5EH-X4C3JQ/maxresdefault.jpg)
+
+
 
 ## History
 
