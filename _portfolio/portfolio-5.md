@@ -86,7 +86,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium interdum li
 - Purple Photosynthetic Gorgonian ❌
 - Ricordea Florida ❌
 - Blue Discosoma ❌
-- Koji Wada Pink Nepthea ❌
+- Koji Wada Pink Nepthea ✅
+- Yellow Fiji Leather ✅
 - Japanese Feather Xenia ❌
 - Gold Torch ❌
 - Green Frogspawn ❌
@@ -94,18 +95,68 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium interdum li
 
 ### Macro-Algae
 
-- Red Bubble Caeulerpa ❌
+- Red Bubble Caulerpa ❌
+- Green Bubble Caulerpa ✅
 - Feather Caulerpa ❌
 - Dragons Breath ❌
 - Halimeda ❌
 - Blue Hypnea ❌
 
 
-## History
+## Inspirations
 
-Inspiration: [razarmi](https://www.nano-reef.com/featured/2012/razarmi-r58/)
+### Razarmi's Soft Coral Tank
+
+nano-reef build thread: [razarmi](https://www.nano-reef.com/featured/2012/razarmi-r58/)
 
 ![fts](https://content.invisioncic.com/Mnanoreef/totm/images/mar2012/fulltankshot.jpg)
+
+
+### Monster Hunter World Coral Highlands
+
+![mhw-login](/../images/softies_tank/mhw/coral_highlands_login.png)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium interdum ligula sit amet ultrices. Vivamus vitae tellus vel ante congue euismod ultricies ac dolor. Suspendisse facilisis lectus sem, non efficitur augue blandit consequat.
+
+
+#### Blue Stripped Discosoma 
+![blue_disco](/../images/softies_tank/mhw/blue_disco.png)
+
+#### Pink Fiji Leather - Clove Polyps - Dragons Breath Macroalgae
+![fiji_leather_cluster](/../images/softies_tank/mhw/fiji_leather_cluster.png)
+
+#### Weeping Willow Leather
+![weeping_willow](/../images/softies_tank/mhw/weeping_willow.png)
+
+#### Pink Toadstools
+![pink_toadstool](/../images/softies_tank/mhw/pink_toadstool.png)
+
+#### Pink Torch Coral
+![torch_coral](/../images/softies_tank/mhw/torch_coral.png)
+
+#### Orange Gorgonian
+![orange_gorg](/../images/softies_tank/mhw/orange_gorg.png)
+
+#### Purple White Gorgonian
+![purple_white_gorg](/../images/softies_tank/mhw/purple_white_gorg.png)
+
+#### Red Fan Coral (Melithaea ochracea)
+![red_gorg](/../images/softies_tank/mhw/red_gorg.png)
+
+#### Red and Yellow Plating Montipora
+![plating_montis](/../images/softies_tank/mhw/plating_montis.png)
+
+#### Blue Plating Montipora
+![blue_monti](/../images/softies_tank/mhw/blue_monti.png)
+
+#### Maxima Clams - Blue Encrusting Sponge
+![maxima_clam](/../images/softies_tank/mhw/maxima_clam.png)
+
+#### Green Birds Nest Coral
+![birds_nest](/../images/softies_tank/mhw/birds_nest.png)
+
+#### Blue Cespitularia
+![anthelia_cespitularia](/../images/softies_tank/mhw/anthelia_cespitularia.png)
 
 
 ## Future Plans
