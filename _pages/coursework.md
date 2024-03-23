@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* B.S. in **Data Science**, University of California, San Diego, 2020-2024
+* B.S. in **Data Science**, University of California, San Diego, 2020-2024 
 * High School Diploma, Diamond Bar High School, 2016-2020
 
 ## GPA
@@ -59,10 +59,4 @@ redirect_from:
 * ESYS 103 Environmental Challenges **[In-Progress]**
 * AIP 197 Academic Internship Program (ARNO Open Meta-Verse) **[Pass]**(Pass/No Pass Only)
 
-## Advanced Placement (High School)
-* AP Calculus AB
-* AP Computer Science A
-* AP Micro-Economics
-* AP Biology
-* AP Environmental Science
-* AP United States History
+[dsc-courses (mirror)](https://inno-apfel.github.io/dsc-course-resources/)
