@@ -29,6 +29,14 @@ redirect_from:
 
 ## Other Projects and Research
 ------
+* **San Diego County Regional Business Growth Forecasting September**
+  <br>
+  San Diego Association Of Governments, September 2023 - April 2024
+  * Conducted collaborative research with a team of 3 and mentors to forecast annual business creation and closing rates at the ZIP Code level.
+  * Collected, cleaned, and processed more than 5 socio-demographic and economic datasets from the US Census
+  * Built and tested various model architectures from sliding window ARIMAs to LSTM neural nets using sci-kit learn and pytorch.
+  * Developed a LASSO regression model to predict immediate next-year birth/death counts and a less accurate LSTM regression model capable of predicting any number of years into the future
+
 * **League of Legends Champion Analysis and Recommendation Dashboard**
   <br>
   University of California San Diego, January 2023 - March 2023
