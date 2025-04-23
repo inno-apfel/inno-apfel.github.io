@@ -18,7 +18,7 @@ redirect_from:
 
 </style>
 
-Third year undergraduate student majoring in **Data Science** at the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) in **University of California, San Diego**. Interests include gaming, tech, anime, and reef aquariums. Always on the lookout for new emerging technologies and more learning experiences. Currently looking for greater hands-on experience working with real world data in data analytics and software engineering.
+Recent **Data Science** graduate from the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) at **UC San Diego**, currently looking for opportunities in data science, analytics, or software development. I enjoy working with data to build tools, develop systems, and create practical solutions to real-world problems. I'm always exploring new technologies and eager to keep learning through hands-on experience. In my free time, I enjoy learning about new emerging tech, playing video games, and maintaining reef aquariums. I'm excited to join a team where I can grow, contribute, and continue building meaningful projects.
 
 ## 🎓 Academic Interests
 
